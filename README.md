@@ -1,29 +1,18 @@
-<h1 data-importer="text" align="center"><I`m Arthur Evaristo/></h1>
+<h2 align="center"> <code>&lt;Hello World!! I'm <b>Arthur Evaristo</b>! /&gt;</code></h2>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer" alt="Typing SVG" />
-</h2>
-
-###
-
-<h2 data-importer="text" align="left">Connect with me:</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/arthur-rodrigues-0b880b285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="thur_34375" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="27" alt="discord logo"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=+Software+Engineer" 
+         alt="Typing SVG" />
   </a>
 </div>
 
-###
+<p align="center" style="margin-top: 10px;">
+Fullstack developer focused on building scalable RESTful APIs using <b>Typescript & Express</b>, with interest in system design and cloud infrastructure and automations.
+</p>
 
-<h2 data-importer="text" align="left">Languages and Tools:</h2>
 
-###
+##  Tech Stack
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -83,14 +72,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+---
+ <div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/arthur-rodrigues-0b880b285/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="thur_34375" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="27" alt="discord logo"  />
+  </a>
 </div>
-
-###
